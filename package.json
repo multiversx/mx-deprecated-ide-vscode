@@ -2,7 +2,7 @@
 	"name": "vscode-elrond-ide",
 	"displayName": "MultiversX IDE",
 	"description": "MultiversX IDE for developing Smart Contracts",
-	"version": "0.21.1",
+	"version": "0.22.0",
 	"publisher": "Elrond",
 	"repository": {
 		"type": "git",
