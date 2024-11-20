@@ -298,7 +298,7 @@
 		"@typescript-eslint/parser": "5.56.0",
 		"@vscode/codicons": "0.0.32",
 		"@vscode/webview-ui-toolkit": "1.2.2",
-		"axios": "1.6.1",
+		"axios": "1.7.4",
 		"chai": "4.3.10",
 		"copy-webpack-plugin": "11.0.0",
 		"eslint": "8.36.0",
